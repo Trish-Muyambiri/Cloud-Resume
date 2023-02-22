@@ -1,0 +1,437 @@
+html {
+  line-height: 1.15;
+  -webkit-text-size-adjust: 100%;
+}
+body {
+  margin: 0;
+}
+
+div {
+  display: block;
+}
+
+h1 {
+  font-size: 2em;
+  margin: 0.67em 0;
+}
+
+a {
+  background-color: transparent;
+}
+
+img {
+  border-style: none;
+}
+button {
+  font-family: inherit;
+  font-size: 100%;
+  line-height: 1.15;
+  margin: 0;
+}
+button {
+  overflow: visible;
+}
+button {
+  text-transform: none;
+}
+button {
+  -webkit-appearance: button;
+}
+
+h1,
+h2,
+h3,
+p {
+  margin: 0;
+}
+button {
+  background-color: transparent;
+  background-image: none;
+  padding: 0;
+}
+
+ul {
+  margin: 0;
+  padding: 0;
+}
+ul {
+  list-style: none;
+}
+html {
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto,
+    Helvetica Neue, Arial, Noto Sans, sans-serif, Apple Color Emoji,
+    Segoe UI Emoji, Segoe UI Symbol, Noto Color Emoji;
+  line-height: 1.5;
+}
+*,
+:after,
+:before {
+  box-sizing: border-box;
+  border: 0 solid #e2e8f0;
+}
+
+img {
+  border-style: solid;
+}
+
+button {
+  cursor: pointer;
+}
+
+h1,
+h2,
+h3 {
+  font-size: inherit;
+  font-weight: inherit;
+}
+a {
+  color: inherit;
+  text-decoration: inherit;
+}
+button {
+  padding: 0;
+  line-height: inherit;
+  color: inherit;
+}
+
+img,
+svg {
+  display: block;
+  vertical-align: middle;
+}
+img {
+  max-width: 100%;
+  height: auto;
+}
+.contact-icon {
+  width: 1rem;
+  height: 1rem;
+  margin-left: 0.5rem;
+  margin-right: 0.5rem;
+}
+.section-header {
+  font-size: 1.5rem;
+  --text-opacity: 1;
+  color: #2b6cb0;
+  color: rgba(43, 108, 176, var(--text-opacity));
+  letter-spacing: 0.1em;
+  padding-top: 0.5rem;
+  padding-bottom: 0.5rem;
+  padding-right: 1.25rem;
+  border-bottom-width: 2px;
+  --border-opacity: 1;
+  border-color: #bee3f8;
+  border-color: rgba(190, 227, 248, var(--border-opacity));
+  width: 10rem;
+}
+html {
+  background: #fcfcfc;
+}
+
+.bg-blue-500 {
+  --bg-opacity: 1;
+  background-color: #4299e1;
+  background-color: rgba(66, 153, 225, var(--bg-opacity));
+}
+
+.rounded-full {
+  border-radius: 9999px;
+}
+
+.border-2 {
+  border-width: 2px;
+}
+
+.flex {
+  display: flex;
+}
+
+.flex-col {
+  flex-direction: column;
+}
+
+.items-center {
+  align-items: center;
+}
+
+.justify-center {
+  justify-content: center;
+}
+.justify-between {
+  justify-content: space-between;
+}
+
+.content-center {
+  align-content: center;
+}
+
+.font-semibold {
+  font-weight: 600;
+}
+.font-bold {
+  font-weight: 700;
+}
+
+.h-24 {
+  height: 6rem;
+}
+
+.text-lg {
+  font-size: 1.125rem;
+}
+.text-xl {
+  font-size: 1.25rem;
+}
+.text-2xl {
+  font-size: 1.5rem;
+}
+
+.text-4xl {
+  font-size: 2.25rem;
+}
+
+.list-none {
+  list-style-type: none;
+}
+
+.my-1 {
+  margin-top: 0.25rem;
+  margin-bottom: 0.25rem;
+}
+
+.my-2 {
+  margin-top: 0.5rem;
+  margin-bottom: 0.5rem;
+}
+
+.my-10 {
+  margin-top: 2.5rem;
+  margin-bottom: 2.5rem;
+}
+.mx-10 {
+  margin-left: 2.5rem;
+  margin-right: 2.5rem;
+}
+
+.mx-auto {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.mr-2 {
+  margin-right: 0.5rem;
+}
+.mb-2 {
+  margin-bottom: 0.5rem;
+}
+
+.mb-3 {
+  margin-bottom: 0.75rem;
+}
+
+.mt-4 {
+  margin-top: 1rem;
+}
+.mb-6 {
+  margin-bottom: 1.5rem;
+}
+
+.mb-8 {
+  margin-bottom: 2rem;
+}
+
+.max-w-4xl {
+  max-width: 56rem;
+}
+
+.max-w-7xl {
+  max-width: 80rem;
+}
+
+#badge {
+  text-decoration: underline;
+}
+
+.py-1 {
+  padding-top: 0.25rem;
+  padding-bottom: 0.25rem;
+}
+
+.py-4 {
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+}
+.px-4 {
+  padding-left: 1rem;
+  padding-right: 1rem;
+}
+
+.pb-2 {
+  padding-bottom: 0.5rem;
+}
+@media (min-width: 640px) {
+  .container {
+    max-width: 640px;
+  }
+}
+@media (min-width: 768px) {
+  .container {
+    max-width: 768px;
+  }
+}
+@media (min-width: 1024px) {
+  .container {
+    max-width: 1024px;
+  }
+}
+@media (min-width: 1280px) {
+  .container {
+    max-width: 1280px;
+  }
+}
+
+.pt-4 {
+  padding-top: 1rem;
+}
+
+.pb-4 {
+  padding-bottom: 1rem;
+}
+.pb-6 {
+  padding-bottom: 1.5rem;
+}
+
+.shadow-md {
+  box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1),
+    0 2px 4px -1px rgba(0, 0, 0, 0.06);
+}
+.shadow-lg {
+  box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1),
+    0 4px 6px -2px rgba(0, 0, 0, 0.05);
+}
+.text-center {
+  text-align: center;
+}
+.text-white {
+  --text-opacity: 1;
+  color: #fff;
+  color: rgba(255, 255, 255, var(--text-opacity));
+}
+.text-gray-900 {
+  --text-opacity: 1;
+  color: #1a202c;
+  color: rgba(26, 32, 44, var(--text-opacity));
+}
+
+.text-blue-700 {
+  --text-opacity: 1;
+  color: #2b6cb0;
+  color: rgba(43, 108, 176, var(--text-opacity));
+}
+
+.hover\:text-blue-600:hover {
+  --text-opacity: 1;
+  color: #3182ce;
+  color: rgba(49, 130, 206, var(--text-opacity));
+}
+
+.focus\:text-blue-600:focus {
+  --text-opacity: 1;
+  color: #3182ce;
+  color: rgba(49, 130, 206, var(--text-opacity));
+}
+
+.focus\:underline:focus {
+  text-decoration: underline;
+}
+.tracking-wide {
+  letter-spacing: 0.025em;
+}
+.tracking-wider {
+  letter-spacing: 0.05em;
+}
+.w-24 {
+  width: 6rem;
+}
+
+.focus\:underline:focus {
+  text-decoration: underline;
+}
+.tracking-wide {
+  letter-spacing: 0.025em;
+}
+.tracking-wider {
+  letter-spacing: 0.05em;
+}
+.w-24 {
+  width: 6rem;
+}
+
+.lg\:border-b-2 {
+  border-bottom-width: 2px;
+}
+.lg\:flex {
+  display: flex;
+}
+.lg\:grid {
+  display: grid;
+}
+.lg\:flex-row {
+  flex-direction: row;
+}
+.lg\:items-start {
+  align-items: flex-start;
+}
+.lg\:justify-center {
+  justify-content: center;
+}
+.lg\:justify-between {
+  justify-content: space-between;
+}
+.lg\:my-0 {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+.lg\:mx-auto {
+  margin-left: auto;
+  margin-right: auto;
+}
+.lg\:max-w-7xl {
+  max-width: 80rem;
+}
+.lg\:py-6 {
+  padding-top: 1.5rem;
+  padding-bottom: 1.5rem;
+}
+
+.lg\:text-left {
+  text-align: left;
+}
+.lg\:col-start-1 {
+  grid-column-start: 1;
+}
+.lg\:col-start-6 {
+  grid-column-start: 6;
+}
+.lg\:col-end-6 {
+  grid-column-end: 6;
+}
+.lg\:col-end-9 {
+  grid-column-end: 9;
+}
+
+.lg\:text-left {
+  text-align: left;
+}
+.lg\:col-start-1 {
+  grid-column-start: 1;
+}
+.lg\:col-start-6 {
+  grid-column-start: 6;
+}
+.lg\:col-end-6 {
+  grid-column-end: 6;
+}
+.lg\:col-end-9 {
+  grid-column-end: 9;
+}
